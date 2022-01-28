@@ -26,6 +26,6 @@ We obtained a rank of 74 in the competiton.
 
 #### References 
 
-[Kornia-docs](https://kornia.readthedocs.io/)
-[DeepLab-V3Plus](https://arxiv.org/pdf/1802.02611) research paper
-[Pytorchlightning-docs](https://pytorch-lightning.readthedocs.io/en/latest/)
+- [Kornia-docs](https://kornia.readthedocs.io/)
+- [DeepLab-V3Plus](https://arxiv.org/pdf/1802.02611) research paper
+- [Pytorchlightning-docs](https://pytorch-lightning.readthedocs.io/en/latest/)
